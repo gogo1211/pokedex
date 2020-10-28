@@ -1,6 +1,19 @@
 # Pokédex
 > A dictionary for Pokémon
 
+Sonar Home Test project
+
+- TypeScript
+- React JS (17.0.1)
+- React Router
+- Redux
+- Redux-thunk
+- reselect
+- Redux toolkit
+- Sass
+- Webpack
+- Bulma CSS framework
+
 ## Usage
 **Development**
 
