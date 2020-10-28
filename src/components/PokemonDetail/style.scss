@@ -1,0 +1,23 @@
+@import '../../style/mixin';
+
+.information-container {
+  width: 1024px;
+  height: 100%;
+  margin: auto;
+  padding: 2rem 0;
+  overflow: auto;
+
+  @include respond-to(tablet) {
+    width: 90%;
+  }
+
+  @include respond-to(mobile) {
+    width: 100%;
+  }
+
+  .pokemon-sprite {
+    width: 100%;
+    background: #f2f2f2;
+    border-radius: 10px;
+  }
+}
